@@ -10,7 +10,7 @@
 </head>
 <body>
 <header>
-    <nav class="navigation">
+    <nav class"">
         <a href=""><img src="img/logocabecalho.png" alt=""></a>
             <ul>
                 <li><a href="index.php">Home</a></li>
