@@ -5,11 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
-    
+    <link rel="stylesheet" media="screen and (max-width: 768px)" href="css/mobile.css">
     <title>GSA SITE LANDING PAG</title>
 </head>
 <body>
-    
+<header>
+    <nav class="navigation">
+        <a href=""><img src="img/logocabecalho.png" alt=""></a>
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="empresa.php">Sobre Nós</a></li>
+                <li><a href="#orçamento">Orçamento</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+    </nav>
+</header>
     <section>
         <div class="circle"></div>
         <?php include('header.html')?>
