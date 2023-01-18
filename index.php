@@ -9,17 +9,6 @@
     <title>GSA SITE LANDING PAG</title>
 </head>
 <body>
-<header>
-    <nav class"">
-        <a href=""><img src="img/logocabecalho.png" alt=""></a>
-            <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="empresa.php">Sobre Nós</a></li>
-                <li><a href="#orçamento">Orçamento</a></li>
-                <li><a href="#contato">Contato</a></li>
-            </ul>
-    </nav>
-</header>
     <section>
         <div class="circle"></div>
         <?php include('header.html')?>
